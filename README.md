@@ -32,4 +32,4 @@ cd concept-simplifier
 pip install strands ollama strands-agents-tools
 ollama pull llama3.1
 ollama run llama3.1
-python app.py
+python app.py 
